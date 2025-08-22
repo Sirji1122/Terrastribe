@@ -1,0 +1,27 @@
+/* src/styles/Community.css */
+.community-container {
+  background-color: #282c34;
+  color: #fff;
+  padding: 2rem;
+  border-radius: 12px;
+  max-width: 700px;
+  margin: 2rem auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.community-container h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.community-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.community-container li {
+  background-color: #3c3f47;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+}

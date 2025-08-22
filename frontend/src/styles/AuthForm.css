@@ -1,0 +1,67 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  
+  
+}
+
+.auth-container {
+  width: 350px;
+  margin: 100px auto;
+  padding: 30px 25px;
+  background-color: rgb(135, 243, 162);
+  
+  border-radius: 10px;
+}
+
+.auth-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.auth-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.auth-container input {
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+.auth-container button {
+  padding: 12px;
+  background-color: #2d7ff9;
+  color: white;
+  font-size: 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 12px;
+}
+
+.auth-container button:hover {
+  background-color: #1b5fd0;
+}
+
+.auth-container p {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+.auth-container .toggle {
+  color: #2d7ff9;
+  cursor: pointer;
+  font-weight: bold;
+}
+.last{
+  margin: 0px;
+  padding: 29px;
+  background-image:url('https://media.licdn.com/dms/image/v2/D4E12AQFZb5xJ9xDkaA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1728401800339?e=2147483647&v=beta&t=uPg69POjpZMsYTlFAIETZWOKF1WdN-g-rWp4TrL6CF8');
+}
